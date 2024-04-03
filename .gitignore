@@ -1,0 +1,7 @@
+.env
+/.idea
+/.vscode
+/pdf/build/
+/pdf/build/sources/*
+/pdf/build/news/*
+
